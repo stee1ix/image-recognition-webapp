@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceda64cf9f661f4e771db5e41479c15c",
+    "revision": "68da037450ed829e306cf4f49b054909",
     "url": "/image-recognition-webapp/index.html"
   },
   {
-    "revision": "2fe90011f5d8cb8324a6",
+    "revision": "f7d16c0e8ffd0940bd0f",
     "url": "/image-recognition-webapp/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "d6e54a123b0262c32d66",
-    "url": "/image-recognition-webapp/static/css/main.0524e810.chunk.css"
+    "revision": "8ca525ce524ecad3edd3",
+    "url": "/image-recognition-webapp/static/css/main.0dcda0a9.chunk.css"
   },
   {
-    "revision": "2fe90011f5d8cb8324a6",
-    "url": "/image-recognition-webapp/static/js/2.c173f676.chunk.js"
+    "revision": "f7d16c0e8ffd0940bd0f",
+    "url": "/image-recognition-webapp/static/js/2.77dc9420.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/image-recognition-webapp/static/js/2.c173f676.chunk.js.LICENSE.txt"
+    "url": "/image-recognition-webapp/static/js/2.77dc9420.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d6e54a123b0262c32d66",
-    "url": "/image-recognition-webapp/static/js/main.4390e23e.chunk.js"
+    "revision": "8ca525ce524ecad3edd3",
+    "url": "/image-recognition-webapp/static/js/main.2f4301ca.chunk.js"
   },
   {
     "revision": "41994ff305d6a310e027",
