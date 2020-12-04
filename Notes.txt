@@ -1,0 +1,9 @@
+-React Tilt - https://www.npmjs.com/package/react-tilt
+
+- CSS Patterns Gallery - lea.verou.me/css3patterns/
+
+-Particles React - https://www.npmjs.com/package/react-particles-js
+
+
+Css Property - z-index: -1;
+z-index is allowed to used when position: absolute||fixed. It tells what layer you want the element to be on. -1 means below anything on the website.
