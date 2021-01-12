@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/image-recognition-webapp/static/css/main.0dcda0a9.chunk.css",
-    "main.js": "/image-recognition-webapp/static/js/main.b2e918a9.chunk.js",
-    "main.js.map": "/image-recognition-webapp/static/js/main.b2e918a9.chunk.js.map",
+    "main.js": "/image-recognition-webapp/static/js/main.66ea5aac.chunk.js",
+    "main.js.map": "/image-recognition-webapp/static/js/main.66ea5aac.chunk.js.map",
     "runtime-main.js": "/image-recognition-webapp/static/js/runtime-main.d2a37306.js",
     "runtime-main.js.map": "/image-recognition-webapp/static/js/runtime-main.d2a37306.js.map",
     "static/css/2.3c03f26f.chunk.css": "/image-recognition-webapp/static/css/2.3c03f26f.chunk.css",
     "static/js/2.f1d4cacf.chunk.js": "/image-recognition-webapp/static/js/2.f1d4cacf.chunk.js",
     "static/js/2.f1d4cacf.chunk.js.map": "/image-recognition-webapp/static/js/2.f1d4cacf.chunk.js.map",
     "index.html": "/image-recognition-webapp/index.html",
-    "precache-manifest.c25d11ed057bb9c79bbdcbe0d77bd5fa.js": "/image-recognition-webapp/precache-manifest.c25d11ed057bb9c79bbdcbe0d77bd5fa.js",
+    "precache-manifest.58dc4f4cedc93075e5fa0982d105b4a5.js": "/image-recognition-webapp/precache-manifest.58dc4f4cedc93075e5fa0982d105b4a5.js",
     "service-worker.js": "/image-recognition-webapp/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/image-recognition-webapp/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.0dcda0a9.chunk.css.map": "/image-recognition-webapp/static/css/main.0dcda0a9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.f1d4cacf.chunk.js",
     "static/css/main.0dcda0a9.chunk.css",
-    "static/js/main.b2e918a9.chunk.js"
+    "static/js/main.66ea5aac.chunk.js"
   ]
 }
