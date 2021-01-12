@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/image-recognition-webapp/static/css/main.0dcda0a9.chunk.css",
-    "main.js": "/image-recognition-webapp/static/js/main.daf6f1a4.chunk.js",
-    "main.js.map": "/image-recognition-webapp/static/js/main.daf6f1a4.chunk.js.map",
+    "main.js": "/image-recognition-webapp/static/js/main.b2e918a9.chunk.js",
+    "main.js.map": "/image-recognition-webapp/static/js/main.b2e918a9.chunk.js.map",
     "runtime-main.js": "/image-recognition-webapp/static/js/runtime-main.d2a37306.js",
     "runtime-main.js.map": "/image-recognition-webapp/static/js/runtime-main.d2a37306.js.map",
     "static/css/2.3c03f26f.chunk.css": "/image-recognition-webapp/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.77dc9420.chunk.js": "/image-recognition-webapp/static/js/2.77dc9420.chunk.js",
-    "static/js/2.77dc9420.chunk.js.map": "/image-recognition-webapp/static/js/2.77dc9420.chunk.js.map",
+    "static/js/2.f1d4cacf.chunk.js": "/image-recognition-webapp/static/js/2.f1d4cacf.chunk.js",
+    "static/js/2.f1d4cacf.chunk.js.map": "/image-recognition-webapp/static/js/2.f1d4cacf.chunk.js.map",
     "index.html": "/image-recognition-webapp/index.html",
-    "precache-manifest.c14f59388409d593d24737a7033e1713.js": "/image-recognition-webapp/precache-manifest.c14f59388409d593d24737a7033e1713.js",
+    "precache-manifest.c25d11ed057bb9c79bbdcbe0d77bd5fa.js": "/image-recognition-webapp/precache-manifest.c25d11ed057bb9c79bbdcbe0d77bd5fa.js",
     "service-worker.js": "/image-recognition-webapp/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/image-recognition-webapp/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.0dcda0a9.chunk.css.map": "/image-recognition-webapp/static/css/main.0dcda0a9.chunk.css.map",
-    "static/js/2.77dc9420.chunk.js.LICENSE.txt": "/image-recognition-webapp/static/js/2.77dc9420.chunk.js.LICENSE.txt",
+    "static/js/2.f1d4cacf.chunk.js.LICENSE.txt": "/image-recognition-webapp/static/js/2.f1d4cacf.chunk.js.LICENSE.txt",
     "static/media/brain.png": "/image-recognition-webapp/static/media/brain.a3afb07e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d2a37306.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.77dc9420.chunk.js",
+    "static/js/2.f1d4cacf.chunk.js",
     "static/css/main.0dcda0a9.chunk.css",
-    "static/js/main.daf6f1a4.chunk.js"
+    "static/js/main.b2e918a9.chunk.js"
   ]
 }

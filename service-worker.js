@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/image-recognition-webapp/precache-manifest.c14f59388409d593d24737a7033e1713.js"
+  "/image-recognition-webapp/precache-manifest.c25d11ed057bb9c79bbdcbe0d77bd5fa.js"
 );
 
 self.addEventListener('message', (event) => {
